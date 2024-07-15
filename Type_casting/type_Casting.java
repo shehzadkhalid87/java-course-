@@ -1,3 +1,5 @@
+package Type_casting;
+
 public class type_Casting {
     public static void main(String[] args){
         //widening type casting

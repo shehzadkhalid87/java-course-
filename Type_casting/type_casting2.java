@@ -1,5 +1,4 @@
-import java.util.Arrays;
-import java.util.concurrent.atomic.AtomicReference;
+package Type_casting;
 
 public class type_casting2 {
     public static void main(String[] args){
